@@ -14,9 +14,10 @@ I have started working on feature 3 and first part of this feature is implemente
 
 This line is added to indicate changes done by reviewer.
 
+Mojahid started feature 6 and is fully reviewed and merged
+
 Hemant started working on feature 5.
 
 First part of feature 5 is done.
 
 Second part of feature 5 is done. here some changes are required.
-
