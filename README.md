@@ -13,3 +13,5 @@ Mojahid has started working of feature 4 and is completed
 I have started working on feature 3 and first part of this feature is implemented.
 
 This line is added to indicate changes done by reviewer.
+
+Mojahid started feature 6 and is fully reviewed and merged
